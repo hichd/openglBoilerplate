@@ -1,5 +1,2 @@
 ﻿  Application.cpp
-  VertexArray.cpp
-C:\Users\jsale\Desktop\Hich\COMP 371\openGlTutorial\OpenGL\OpenGl\src\VertexArray.cpp(35,1): warning C4312: 'type cast': conversion from 'unsigned int' to 'const void *' of greater size
-  Generating Code...
   OpenGl.vcxproj -> C:\Users\jsale\Desktop\Hich\COMP 371\openGlTutorial\OpenGL\x64\Debug\OpenGl.exe

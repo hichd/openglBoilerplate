@@ -1,6 +1,7 @@
 #include "Renderer.h"
 
 #include "VertexArray.h"
+#include "VertexBufferLayout.h"
 
 // vertex arrays tie together vertex array buffer with some kind of layout, vertex buffers do not know how the data is organized (what each byte in the array represents, how big is a single vertex)
 // vertex array objects are used to store this state
